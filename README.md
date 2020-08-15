@@ -1,5 +1,5 @@
 # nqueens
-A nqueens problem c++ solution using functional features
+A nqueens problem c++ solution using functional programming features
 
 compile with -std=c++14 flag
 
